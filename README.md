@@ -19,6 +19,6 @@ O ReMediar visa oferecer aos idosos uma ferramenta simples para gerenciar compro
 Frontend(HTML,CSS,Javascript)
 AWS-EC2
 
-# Pré requisitos para uso
+# Pré-requisitos para uso
 Navegador de internet(Opera, Chrome, Edge, Firefox)
 Conexão com internet
