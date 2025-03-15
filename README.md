@@ -14,3 +14,11 @@ Profissionais de Saúde facilitando o acompanhamento do tratamento dos pacientes
 
 # Objetivos
 O ReMediar visa oferecer aos idosos uma ferramenta simples para gerenciar compromissos médicos e lembretes de medicamentos. Seu objetivo é garantir autonomia e segurança, com funcionalidades de agendamento, notificações e integração com calendários. A plataforma é projetada para ser acessível, com um design intuitivo, rápido e seguro, focado no bem-estar dos usuários e na proteção de dados sensíveis.
+
+# Tecnologias utilizadas
+Frontend(HTML,CSS,Javascript)
+AWS-EC2
+
+# Pré requisitos para uso
+Navegador de internet(Opera, Chrome, Edge, Firefox)
+Conexão com internet
